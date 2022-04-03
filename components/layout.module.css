@@ -1,0 +1,12 @@
+.container {
+    @apply max-w-xl py-4;
+    margin: 3rem auto 6rem;
+}
+
+.header {
+    @apply flex flex-col items-center;
+}
+
+.backToHome {
+    margin: 3rem 0 0;
+}
